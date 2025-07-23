@@ -221,6 +221,15 @@ async def global_search_post(request: SearchRequest):
 async def local_search_get(query: str = Query(..., description="Local Search")):
     try:
         logger.info(f"执行本地搜索: {query}")
+        
+        # 处理covariates参数，如果为None则创建具有正确结构的空DataFrame
+        covariates_param = app.state.covariates
+        if covariates_param is None:
+            # 创建一个具有正确列结构的空DataFrame
+            # 根据GraphRAG的要求，covariates应该有特定的列结构
+            covariates_param = pd.DataFrame(columns=['id', 'human_readable_id', 'covariate_type', 'type', 'description', 'subject_id', 'subject_type', 'object_id', 'object_type', 'status', 'start_date', 'end_date', 'source_text'])
+            logger.info("covariates为None，使用空DataFrame with proper structure")
+        
         response, context = await api.local_search(
                                 config=app.state.config,
                                 entities=app.state.entities,
@@ -228,7 +237,7 @@ async def local_search_get(query: str = Query(..., description="Local Search")):
                                 community_reports=app.state.community_reports,
                                 text_units=app.state.text_units,
                                 relationships=app.state.relationships,
-                                covariates=app.state.covariates,
+                                covariates=covariates_param,
                                 community_level=COMMUNITY_LEVEL,                                
                                 response_type=RESPONSE_TYPE,
                                 query=query,
