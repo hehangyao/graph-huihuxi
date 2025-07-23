@@ -1,0 +1,457 @@
+fmx_T3RoZXJNaXJyb3Jz· 3429 ·
+http://www.chinagp.net   E-mail:zgqkyx@chinagp.net.cn
+·论著·
+成人阻塞性睡眠呼吸暂停低通气综合征
+无创正压通气治疗管理的最佳证据总结
+王秋爽，安欣，史新慧，张丹，马京华*
+【摘要】 　背景　 无创正压通气（NPPV）是阻塞性睡眠呼吸暂停低通气综合征（OSAHS）最常用的治疗方
+式，能够有效改善患者的低通气状况，目前国内 NPPV 方案选择多样，但尚无管理方案的最佳证据总结。 目的　 检
+索、评价 OSAHS 患者正压通气应用与管理相关文献，汇总最佳证据，为临床提供参考 。方法　 计算机检索 BMJ Best 
+Practice、 Up To Date、 苏格兰校际指南网 （SIGN） 、 国际指南协作网 （GIN） 、 英国国家卫生与临床优化研究所 （NICE） 、
+美国国立指南数据库（NGC）、加拿大安大略护理学会（RNAO）、新西兰指南协作组网站（NZGG）、中国指南
+网、澳大利亚乔安娜布里格斯研究所（JBI）循证卫生保健中心数据库、Cochrane Library、Web of Science、Embase、
+PubMed、 Scopus、 万方数据知识服务平台 （Wanfang Data） 、 中国知网 （CNKI） 、 维普网 （VIP） 、 美国睡眠医学学会 （AASM）
+数据库中与 OSAHS 患者 NPPV 治疗管理相关的文献，包括指南、专家共识、随机对照试验、证据总结、系统评价及
+Meta 分析，检索时间为建库至 2021 年 12 月。采用相应的质量评价标准对纳入的文献进行质量评价，采用 JBI 证据预
+分级及证据推荐级别系统（2014 版）对证据进行描述及汇总，再根据证据的 FAME 结构（证据的可行性、适宜性、临
+床意义和有效性）确定证据的推荐强度 。结果　 共纳入 10 篇文献，包括指南 6 篇、专家共识 2 篇、Meta 分析 1 篇、
+随机对照试验 1 篇，从 NPPV 治疗的适用范围、使用时长、模式选择、压力调节、疗效评估、护理干预、随访、替代
+治疗 8 个方面形成 27 条最佳证据 。结论　 本研究总结了 OSAHS 患者 NPPV 治疗管理的最佳证据，包括适用范围、使
+用时长、模式选择、压力调节、疗效评估、护理干预、随访、替代治疗 8 个方面，为医护人员实施更规范的 NPPV 治
+疗提供循证依据。
+【关键词】 　睡眠呼吸暂停，阻塞性；无创正压通气；治疗；证据总结；循证医学
+【中图分类号】 　R 749.79　 【文献标识码】 　A　DOI：10.12114/j.issn.1007-9572.2022.0309
+王秋爽，安欣，史新慧，等 . 成人阻塞性睡眠呼吸暂停低通气综合征无创正压通气治疗管理的最佳证据总结［J］. 
+中国全科医学，2022，25（27）：3429-3434. ［www.chinagp.net］
+WANG Q S，AN X，SHI X H，et al. Summary of best evidence for the management of noninvasive positive pressure 
+ventilation in adults with obstructive sleep apnea hypopnea syndrome ［J］. Chinese General Practice，2022，25（27）：3429-
+3434.
+Summary of Best Evidence for the Management of Noninvasive Positive Pressure Ventilation in Adults with Obstructive 
+Sleep Apnea Hypopnea Syndrome 　WANG Qiushuang ，AN Xin ，SHI Xinhui ，ZHANG Dan ，MA Jinghua*
+School of Nursing ，Hebei University of Chinese Medicine ，Shijiazhuang 050200 ，China
+*Corresponding author ：MA Jinghua ，Associate professor ，Master supervisor ；E-mail ：majh_66@126.com
+【Abstract】 　Background　 Noninvasive positive pressure ventilation（NPPV）is the most common treatment for 
+obstructive sleep apnea hypopnea syndrome（OSAHS），which can effectively improve the hypopnea condition. At present，
+there are various NPPV programs with no summary of the relevant best evidence in China. Objective　 To search and evaluate 
+studies related to NPPV management in OSAHS patients，then summarize the best evidence，to inform clinical practice. Methods
+　All evidence（including guideline，expert consensus，randomized controlled trial，evidence summary，systematic evaluation 
+and meta-analysis）on the management of NPPV in patients with OSAHS was retrieved from databases and websites including 
+BMJ Best Practice，Up To Date，Scottish Intercollegiate Guidelines Network，Guidelines International Network，National 
+Institute for Health and Care Excellence，National Guideline Clearinghouse，Registered Nurses ' Association of Ontario，New 
+Zealand Guidelines Group，Chinese Guideline Network，the Joanna Briggs Institute Evidence-based Health Care Center，
+基金项目：河北省科技厅重点实验室（SZX2021025 ）
+050200 河北省石家庄市，河北中医学院护理学院
+*通信作者：马京华，副教授，硕士生导师；E-mail：majh_66@126.com
+本文数字出版日期：2022-07-14扫描二维码
+查看原文
+
+fmx_T3RoZXJNaXJyb3Jz· 3430 ·
+http://www.chinagp.net   E-mail:zgqkyx@chinagp.net.cn
+阻塞性睡眠呼吸暂停低通气综合征 （ o b s t r u c t i v e  
+sleep apnea hypopnea syndrome，OSAHS）是睡眠紊乱疾
+病中最常见的一种，全球约有 2/5 的人口患病［1］，我
+国 OSAHS 的患病人数已达 1.76 亿，居全球首位［2］。
+OSAHS 患者由于低通气引发缺氧，会导致睡眠质量降
+低、注意力不集中、认知功能下降等，严重影响患者的
+生活质量与工作效率，且有研究表明其与慢病患者预后
+存在相关性［8］， 因而有效缓解患者缺氧情况尤为重要。
+无创正压通气（noninvasive positive pressure ventilation，
+NPPV）是 OSAHS 患者常用治疗措施，可改善患者的低
+通气状况，提高生活质量。目前，我国对于 OSAHS 患
+者 NPPV 治疗的模式、使用时长等方案选择多样，导致
+患者的治疗依从性欠佳，基于此，本研究通过全面检索
+国内外关于 OSAHS 患者 NPPV 治疗应用与管理的相关
+文献，运用循证方法对最佳证据进行总结，旨在为临床
+开展科学、 规范、 高依从性的 NPPV 治疗提供证据支持。
+1　资料与方法 
+1.1　检索策略　检索的数据库及指南网站按照“6S”
+金字塔证据模型［3］，自上而下地进行证据检索。检索
+数据库包括：BMJ Best Practice、Up To Date、苏格兰校
+际 指 南 网（Scottish Intercollegiate Guidelines Network，
+SIGN）、 国 际 指 南 协 作 网（Guidelines International 
+N e t w o r k ， G I N ） 、英国国家卫生与临床优化研究所
+（National Institute for Health and Care Excellence，
+NICE）、 美 国 国 立 指 南 数 据 库（National Guidelin 
+Clearinghouse， NGC） 、 加拿大安大略护理学会 （Registered 
+Nurses' Association of Ontario，RNAO）、新西兰指南协
+作 组 网 站（New Zealand Guidelines Group，NZGG）、
+中国指南网、澳大利亚乔安娜布里格斯研究所（Joana 
+Briggs Institute，JBI） 循 证 卫 生 保 健 中 心 数 据 库、
+Cochrane Library、Web of Science、Embase、PubMed、
+Scopus、万方数据知识服务平台（Wanfang Data）、中
+国知网（CNKI）、维普网（VIP）、美国睡眠医学学会（The American Academy of Sleep Medicine，AASM）。
+以“OSAHS/ 鼾 症 / 睡 眠 呼 吸 暂 停 /OSAHS”“ 无 创
+正压通气治疗”为中文检索词，以“obstructive sleep 
+apneas/OSAHS/OSA/sleep apnea hypopnea syndrome/upper 
+airway resistance sleep apnea syndrome”“positive airway 
+pressure/noninvasive positive pressure ventilation” 为 英 文
+检索词，检索时间为建库至 2021 年 12 月。
+1.2　文献纳入与排除标准　纳入标准：（1）研究对象
+为年龄 >18 岁的 OSAHS 患者；（2）干预措施为 NPPV
+治疗；（3）研究类型包括指南、原始研究、证据总结、
+专家共识、系统评价；（4）发表语言限定为中、英文。
+排除标准：（1）重复发表或信息不全的文献；（2）无
+法获取全文的文献；（3）质量评价未通过的文献。
+1.3　文献筛选及质量评价　经过循证培训的 2 名研究
+者独立阅读文献的题目、摘要、全文，按照纳入与排除
+标准对文献进行筛选，对纳入的文献进行质量评价，并
+进行交叉核对，若遇分歧，则与第 3 名研究者共同商议
+裁决。
+1.3.1　指南的评价　采用临床指南研究与评价系统
+（Appraisal of Guidelines for Research and Evaluation Ⅱ，
+AGREE Ⅱ）［4］对指南进行质量评价。AGREE Ⅱ 的 6
+个领域包含 23 个条目，另外还包括 2 个指南的全面评
+价条目， 每个条目赋 1~7 分， 1 分 （很不同意） ， 7 分 （很
+同意），各领域标准化得分 =（实际得分 - 最低可能得
+分）/（最高可能得分 - 最低可能得分）×100%。指南
+评价分为 3 级，推荐依据：指南 6 个领域标准化得分均
+≥ 60% 为 A 级（推荐）；得分≥ 30% 的领域数≥ 3 个，
+但有得分 <60% 的领域为 B 级（不同程度修改完善后推
+荐）；得分 <30% 的领域数≥ 3 个为 C 级（不推荐）。
+1.3.2　专家共识的评价　采用 JBI 共识和意见类文献关
+键评价清单（JBI Critical Appraisal Checklist for Text and 
+Opinion Papers）［5］对专家共识进行质量评价，清单共
+6 个条目，每个条目评价结论为“是”“否”“不清楚”Cochrane Library，Web of Science，Embase，PubMed，Scopus，Wanfang Data，CNKI，VIP and American Academy of 
+Sleep Medicine from inception to December，2021. The methodological quality of the included literature was evaluated using 
+corresponding quality evaluation criteria. The evidence was described and summarized using JBI levels of evidenceand and JBI 
+grades of recommendation（2014），then the recommended strength of the evidence is determined according to the FAME 
+scale（feasibility，appropriateness，meaningfulness and effectiveness）. Results　 A total of 10 studies were included，
+including 6 guidelines，2 expert consensuses，1 Meta-analysis and 1 randomized controlled trial. Finally，27 pieces of best 
+evidence were summarized，involving 8 aspects：scope of application，duration of use，mode selection，pressure regulation，
+efficacy evaluation，nursing intervention，follow-up and alternative treatment. Conclusion 　We summarized the best evidence 
+involving the above-mentioned 8 aspects for NPPV management in OSAHS patients，providing an evidence-based basis for the 
+implementation of standardized NPPV treatment.
+【Key words 】　 Sleep apnea，obstructive；Non-invasive positive pressure ventilation；Therapy；Evidence 
+summaries；Evidence-based medicine
+
+fmx_T3RoZXJNaXJyb3Jz· 3431 ·
+http://www.chinagp.net   E-mail:zgqkyx@chinagp.net.cn
+或“不适用”。
+1.3.3　随机对照试验的质量评价　采用 JBI 随机对照
+试 验 关 键 评 价 清 单（JBI Critical Appraisal Checklist for 
+Randomized Controlled Trials）［5］进行质量评价，评价清
+单共包括 13 个条目，从随机性、盲法、统计分析方法
+等方面进行质量评价， 每个条目评价结论为 “是” “否” “不
+清楚”或“不适用”。
+1.3.4　Meta 分析的质量评价　采用 JBI 系统评价和综
+述 的 关 键 评 价 清 单（JBI Critical Appraisal Checklist for 
+Systematic Reviews and Research Syntheses）［5］进行质量
+评价，清单包括 11 个条目，涉及循证问题界定、检索
+策略、文献质量评价、资料提取及合成、发表偏倚等方
+面，每个条目评价结论为“是” “否” “不清楚”或“不
+适用”。
+1.4　证据汇总及生成　采用澳大利亚 JBI 证据预分级及
+证据推荐级别系统（2014 版）［6］，将证据等级划分为
+1~5 级，再根据证据的 FAME 结构（证据的可行性、适
+宜性、临床意义和有效性）确定证据的推荐强度［6］。
+2　结果
+2.1　纳入文献的一般特征　经检索共获得文献 2 752
+篇， 排除重复及内容不全的文献 689 篇， 继续阅读标题、
+摘要后筛选出文献 322 篇，最终通过阅读全文获得符合纳入标准的文献 10 篇［7-16］，包括 6 篇指南［7-12］、2 篇
+专家共识［13-14］、 1 篇随机对照试验［15］、 1 篇 Meta 分析［16］，
+见表 1。
+2.2　文献质量评价结果　本研究纳入文献整体质量较
+高，证据汇总结果具备系统性和科学性。
+2.2.1　 指南的质量评价结果　本研究共纳入 6 篇指南［7-12］，
+采用 AGREE Ⅱ［4］进行质量评价，2 篇指南［8，11］评价
+为A级 ， 4篇［7，9-10，12］评价为 B 级，总体质量较高，
+质量评价结果见表 2。
+2.2.2　专家共识的质量评价结果　本研究纳入专家共识
+2篇［13-14］，JBI 共识和意见类文献关键评价清单［5］6
+个条目的评价结果均为“是”，文献质量高，质量评价
+结果见表 3。
+2.2.3　随机对照试验的质量评价结果　本研究纳入 1 篇
+随机对照试验［15］，JBI 随机对照试验关键评价清单［5］
+的 13 个条目中除“是否采用相同的方式对各组研究对
+象的结局指标进行测评”及“实验组与对照组在基线时
+是否具有可比性”评价结果为“不清楚”，“是否描述
+了失访对象的结局并将其纳入分析”评价结果为“否”
+外，其他条目评价结果均为“是”，文献质量较高。
+2.2.4　Meta 分析的质量评价结果　本研究纳入 Meta 分
+析1篇［16］，JBI 系统评价和综述的关键评价清单的 11
+表1　纳入文献的一般特征
+Table 1　Characteristics of included literature
+第一作者 文献来源 文献性质 文献主题发表时间
+（年）
+KENT ［7］PubMed 指南 成人 OSAHS 手术咨询的临床实践建议 2021
+NICE［8］NGC 指南 16 岁以上的 OSAHS 和肥胖性低通气综合征 2021
+中国医师协会睡眠医学专业委员会［9］CNKI 指南 成人 OSAHS 多学科诊疗指南 2018
+中华医学会［10］CNKI 指南 成人 OSAHS 基层诊疗指南（2018 年） 2019
+MYSLIWIEC ［11］PubMed 指南慢性失眠障碍和 OSAHS 的管理：2019 年美国退伍军人事务部和美国国防部
+临床实践指南的概要2020
+PATIL S ［12］NGC 指南 气道正压治疗成人 OSAHS：美国睡眠医学学会临床实践指南 2019
+中华医学会呼吸病学分会睡眠呼吸障碍分组［13］CNKI 专家共识 睡眠呼吸疾病无创正压通气临床应用专家共识 2017
+中国医师协会呼吸医师分会睡眠呼吸障碍工作委员会［14］CNKI 专家共识 成人 OSAHS 远程医疗临床实践专家共识 2021
+ALOIA［15］PubMed 随机对照试验 改善 OSAHS 患者对气道正压的依从性：一项随机对照试验 2013
+AARDOOM［16］PubMed Meta 分析 eHealth 在改善 OSAHS 患者治疗依从性方面的有效性：meta 分析 2020
+注： OSAHS= 阻塞性睡眠呼吸暂停低通气综合征， NGC= 美国国立指南数据库，CNKI= 中国知网，eHealth= 电子健康
+表2　纳入指南的方法学质量评价（ n=6）
+Table 2　Methodological quality assessment results of included guidelines
+第一作者各领域标准化百分比（%）≥ 60% 的
+领域数（个）≥ 30% 的
+领域数（个）推荐级别
+（级）范围
+和目的参与人员制订的
+严谨性表达的
+清晰性适用性编撰的
+独立性
+KENT ［7］91.7 86.1 50.0 86.1 47.9 75.0 4 6 B
+NICE［8］100.0 63.9 76.0 88.9 85.4 78.5 6 6 A
+中国医师协会睡眠医学专业委员会［9］77.8 52.8 50.0 94.4 52.1 45.8 2 6 B
+中华医学会［10］91.7 55.6 35.4 63.9 31.3 41.7 2 6 B
+MYSLIWIEC ［11］91.7 77.8 62.5 94.4 83.3 79.2 6 6 A
+PATIL［12］91.7 61.1 56.3 83.3 64.6 54.2 4 6 B
+
+fmx_T3RoZXJNaXJyb3Jz· 3432 ·
+http://www.chinagp.net   E-mail:zgqkyx@chinagp.net.cn
+个条目除“研究的评价方法是否恰当合理”评价结果为
+“否” 外， 其余条目评价结果均为 “是” ， 文献质量较高。
+2.3　最佳证据总结　通过证据提取、整合和汇总，最
+终从适用范围、使用时长、通气模式选择、压力调节、
+疗效评估、护理干预、随访、替代治疗 8 个方面总结了
+27 条最佳证据，见表 4。
+3　讨论
+3.1　NPPV 是 治 疗 OSAHS 的 首 选 方 法　 证 据 4~7 为
+OSAHS 患者 NPPV 治疗模式的选择依据，持续气道正
+压通气（CPAP）是最常用治疗模式［9-10，12］，自动持
+续气道正压通气（APAP）与 CPAP 相比的优势在于能
+够随着 OSAHS 严重程度、体位、体质量波动等变化而
+自动调整治疗压力，但可能会因为压力不当导致患者
+中枢性睡眠呼吸暂停；相对于 CPAP 和 APAP，双水平
+气道正压通气（BPAP）的优点在于呼气时压力较低而
+能够提高患者 NPPV 治疗的舒适度［19］，但花费较多。
+证据表明三种通气模式适用于不同的人群，因此在临
+床应用时需对人群特征进行评估，选择合适的治疗模  
+式［8-10，12-13］。
+3.2　患者依从性的提高是保证治疗效果的有效手段　
+证据 15~19 总结了提高患者 NPPV 治疗依从性的措施，
+患者依从性的提高是达到 NPPV 治疗目标的关键，依从
+性良好的标准是指患者有≥ 70% 的夜晚使用 NPPV 的
+时间≥ 4 h［10-11，13］。但研究显示 NPPV 的使用会引发
+鼻部干燥、感染和睡眠质量差等不良反应［10-11，13］，患
+者 3 个月后依从性良好率仅有 50%~60%［20］，导致患
+者可能达不到 NPPV 的最佳使用时长，影响治疗效果。
+研究表明通过监测及健康教育能够提高 OSAHS 患者治
+疗依从性［20］。在治疗前对患者进行健康宣教，治疗过
+程中及时解决口罩不适、 口干、 皮肤刺激等不良反应［21］，
+在患者出院后为其提供线上随访及远程监测，OSAHS
+患者依从性有显著改善［14］，但我国远程医疗管理模式、
+人员职责及数据安全等方面尚无统一标准［18］，仍需进
+一步探究，建立一个成熟、可复制的远程 OSAHS 诊疗
+和管理模式。3.3　NPPV 的替代治疗　证据 22~27 总结了当患者不
+适用、不耐用 NPPV 时可采用的替代治疗方法，证据显
+示口腔矫治器可作为轻中度 OSAHS 患者终生治疗的方
+式［22］，但在使用过程中需注意产生的不良反应，如过
+度流涎、口腔炎症、口干、牙痛、头痛、颞下颌关节不
+适等，可采取多学科协作治疗，由口腔医师安装口腔矫
+治器［23］，降低不良反应对治疗的影响。重度 OSAHS
+患者或 NPPV 和口腔矫治器应用效果欠佳的患者可考虑
+手术治疗， 但会伴随疼痛和愈合时间过长等问题。 另外，
+舌下神经刺激（hypoglossal nerve stimulator，HGNS）或
+上气道刺激（upper airway stimulation，UAS）已作为国
+外二线治疗方法，证实能够显著改善患者的打鼾、嗜睡
+等症状，患者长期使用依从性高，并发症较少［24］，但
+在我国尚处于临床试验阶段，需大规模、多中心的临床
+试验探究其长期疗效和不良反应情况。
+本研究系统地检索了国内 NPPV 治疗 OSAHS 的相
+关文献， 总结了 OSAHS 患者应用 NPPV 治疗的最佳证据，
+包括适用范围、使用时长、模式选择、压力调节、疗效
+评估、护理干预、随访、替代治疗 8 个方面，共 27 条，
+为医护人员实施更规范的 NPPV 治疗， 提高患者依从性、
+改善患者预后提供理论依据。由于语言的限制，本研究
+仅纳入中、英文文献，可能遗漏一些研究结果。此外，
+医护人员在应用证据时需充分考虑患者的意愿及应用情
+境，合理选择最佳治疗方案。
+作者贡献：王秋爽、马京华提出研究思路及主要研
+究目标；王秋爽、安欣进行文献检索；王秋爽、安欣、
+史新慧、张丹进行文献质量评价、证据汇总；王秋爽撰
+写论文初稿；安欣、史新慧、马京华对研究进行监督；
+安欣、张丹、马京华对论文进行审查；马京华对文章整
+体负责，监督管理。
+本文无利益冲突。
+参考文献
+［1］ PEPPARD P E，YOUNG T，BARNET J H，et al. Increased 
+prevalence of sleep-disordered breathing in adults［J］. Am J 
+Epidemiol，2013，177（9）：1006-1014. DOI：10.1093/aje/
+kws342.表3　纳入专家共识的质量评价结果
+Table 3　Results of quality evaluation of included expert consensuses
+评价内容睡眠呼吸疾病无创正压通气
+临床应用专家共识［13］成人 OSAHS 远程医疗
+临床实践专家共识［14］
+是否明确标注观点来源 是 是
+观点是否来源于该领域权威专家 是 是
+观点是否以相关利益人群的利益为中心 是 是
+陈述的结论是否基于分析结果；观点表达是否具有逻辑性 是 是
+是否参考了现有的其他文献 是 是
+观点与以往文献不一致地方是否有合理解释 是 是
+
+fmx_T3RoZXJNaXJyb3Jz· 3433 ·
+http://www.chinagp.net   E-mail:zgqkyx@chinagp.net.cn
+［2］ 洪培川，欧琼，潘敏霞，等 . 公务员人群对打鼾危害的认知度
+及阻塞性睡眠呼吸暂停患病率现状调查［J］. 中华结核和呼吸
+杂志，2020，43（7）：553-556. DOI：10.3760/cma.j.cn112147-
+20191013-00682.
+HONG P C，OU Q，PAN M X，et al. Investigation on the awareness 
+of snoring hazard and prevalence of obstructive sleep apnea among civil servants［J］. Chinese Journal of Tuberculosis and Respiratory 
+Diseases，2020，43（7）：553-556. DOI：10.3760/cma.
+j.cn112147-20191013-00682.
+［3］ DICENSO A，BAYLEY L，HAYNES R B. Accessing pre-appraised 
+evidence：fine-tuning the 5S model into a 6S model［J］. Evid Based 
+Nurs，2009，12（4）：99-101. DOI：10.1136/ebn.12.4.99-b.表4　OSAHS 患者 NPPV 应用与管理的最佳证据总结
+Table 4　 Summary of the best evidence for the application and management of NPPV in patients with OSAHS
+类别 证据内容证据
+等级推荐
+级别
+适用范围 1. 适应证：（1）中、重度 OSAHS（AHI ≥ 15 次 /h）；（2）轻度 OSAHS（5 次 /h ≤ AHI<15 次 /h）但伴有日间
+嗜睡、 认知障碍或抑郁等明显症状， 合并或并发心脑血管疾病、 糖尿病等； （3） 围术期治疗的 OSAHS 患者； （4）
+经过手术或其他治疗后仍存在的 OSAHS；（5）OSAHS 与 COPD 重叠综合征［10，13］1 A
+2. 相对禁忌证： （1） CT 或胸部 X 线发现肺大泡； （2） 气胸或纵隔气肿； （3） 血压明显降低 （<90/60 mm Hg） ； （4）
+急性心肌梗死及血流动力学指标不稳定；（5）脑脊液漏、颅脑创伤或颅内积气；（6）急性鼻窦炎、鼻炎、中
+耳炎感染未控制；（7）青光眼等［13］1 A
+使用时长 3. 使用时长至少超过 4 h/ 晚，以整个睡眠期间使用为最佳［8，11］1 A
+通气模式
+选择4.CPAP 为一线治疗手段，为 OSAHS 患者的首选治疗方法［8，10］1 A
+5.APAP 适用于不能耐受 CPAP、体位及睡眠时相相关 OSAHS、饮酒后 OSAHS、体质量增减显著的患者等［13］1 A
+6. 对于中度或重度 OSAHS 患者，可将 APAP 作为固定水平的 CPAP 的替代方案［8，12］5 B
+7. 适应证： （1） 无备用频率 （S 模式） ：不能耐受 CPAP 治疗的患者或 OSAHS 合并 CSA、 胸廓畸形、 COPD 等； （2）
+有备用频率（ST 模式）：CSA、胸廓畸形、重度肥胖低通气综合征和睡眠相关低通气疾病等；（3）治疗压力超
+过 15 cm H20（1 cm H20=0.098 kPa）；（4）合并肥胖低通气综合征［9，13］5 B
+压力调节 8. 压力滴定分为人工压力滴定、分段压力滴定和自动压力滴定［10］1 A
+9. 人工压力滴定为最常用方式，选用 CPAP 模式或 BPAP 模式进行，手动反复调压至合适治疗压力［10，17］1 A
+10. 满足下列条件时采用分段压力滴定：（1）PSG 监测时长≥ 2 h 且 AHI ≥ 40 次 /h；（2）滴定时长 >3 h；（3）
+滴定期间 PSG 证实 CPAP 滴定消除或几乎消除睡眠中的呼吸事件，包括在仰卧位时及 REM 睡眠期［9］1 B
+11. 理想的治疗压力应满足下列条件：（1）消除不同睡眠期和各种体位的呼吸暂停及低通气事件，达到 AHI<5
+次 /h；（2）消除鼾声及气流受限；（3）消除微觉醒，恢复正常睡眠结构；（4）消除低血氧事件，维持夜间
+SaO2>90%［17］1 A
+疗效评估 12.NPPV 治疗能有效降低 AHI［13］1 A
+13.CPAP 治疗的有效性根据 OSAHS 症状、OSAHS 的严重程度、AHI 指数或 ODI 指数、坚持治疗情况和远程监测
+数据进行评估［8］5 B
+14.AHI<5 次 /h 为理想治疗效果，但与实际治疗效果存在差距，不能单独作为疗效评估指标［8］1 B
+护理干预 15. 对于 NPPV 治疗依从性差的高危患者（如创伤后应激障碍、焦虑或失眠患者），在开始治疗前采取教育、行
+为和支持性干预措施［12，17］来提高依从性1 A
+16. 成人 OSAHS 患者在 CPAP 治疗期间应用 eHealth 可以改善最初几个月的治疗依从性，使平均夜间使用时间增
+加约半小时［14，16，18］1 A
+17. 对存在幽闭恐惧倾向的患者进行心理干预或更换为鼻枕等连接方式［9］5 B
+18. 基于“生物 - 社会 - 心理医学模式”采取干预综合策略可提高患者长期依从性［4］5 B
+19. 对患有因 CPAP 诱发鼻炎的中重度 OSAHS 患者在治疗时进行加热湿化［8］5 A
+随访 20. 为患者提供面对面、视频或电话咨询［8，12］，包括远程监测（基于云技术的应用程序：U‐Sleep、ResMed 
+Corp）或电子健康技术向患者进行健康宣教，并对患者的病情进行评估［14］5 A
+21. 病情得到缓解后，每半年或 1 年规律随访［8，14］5 B
+替代治疗 22. 舌骨及舌根手术可用于存在舌根平面狭窄的轻中度 OSAHS 患者［9］1 A
+23. 单颌手术治疗可用于小颌畸形、上或下颌后缩继发的 OSAHS 患者［9］1 A
+24. 推荐术前 AHI<30 次 /h 的扁桃体肥大患者行单纯扁桃体切除术［9］1 A
+25. 对患有 OSAHS 和肥胖（二级 / 三级），体质指数≥ 35 kg/m2且对 NPPV 不耐受或不接受的成年人，先进行减
+重治疗［1］1 B
+26. 对于适当的轻度至中度 OSAHS（AHI<30 次 /h）患者，选择由合格的牙科供应商制作的下颌骨推进设备，作
+为 NPPV 治疗的替代方案［2］1 A
+27. 对于不能耐受或拒绝所有其他推荐治疗的 OSAHS 患者，提供挽救性治疗［8-9］如气管切开术 5 B
+注：AHI= 呼吸暂停低通气指数，COPD= 慢性阻塞性肺疾病，CPAP= 持续气道正压通气，APAP= 自动持续气道正压通气，CSA= 中枢性睡眠
+呼吸暂停，BPAP= 双水平气道正压通气，PSG= 多导睡眠监测，REM= 快速眼动，SaO2= 动脉血氧饱和度，NPPV= 无创正压通气，ODI= 氧饱和
+度指数
+
+fmx_T3RoZXJNaXJyb3Jz· 3434 ·
+http://www.chinagp.net   E-mail:zgqkyx@chinagp.net.cn
+［4］ 周芬，郝玉芳，丛雪，等 . 指南研究与评价工具 AGREE Ⅱ及各
+领域分值的补充解释及思考［J］. 护理学报，2018，25（18）：
+56-58. DOI：10.16460/j.issn1008-9969.2018.18.056.
+ZHOU F，HAO Y F，CONG X，et al．Supplementary explanation 
+and reflection on the guideline research and evaluation tool agree Ⅱ 
+and the score of each field ［J］ . Journal of Nursing， 2018， 25 （18） ：
+56-58. DOI：10.16460/j.issn1008-9969.2018.18.056.
+［5］ The Joanna Briggs Institute（JBI）. The Joanna Briggs Institute. 
+Critical appraisal tools ［EB/OL］ . （2020-07-30） ［2022-03-01］ . 
+https://joannabriggs.org/critical-appraisal-tools.
+［6］ 王春青， 胡雁 . JBI 证据预分级及证据推荐级别系统 （2014 版） ［J］ . 
+护 士 进 修 杂 志，2015，30（11）：964-967. DOI：10.16821/j.
+cnki.hsjx.2015.11.002.
+WANG C Q，HU Y. JBI evidence pre-classification and 
+evidence rank system（2014 Edition）［J］. Journal of Nurses 
+Training，2015，30（11）：964-967. DOI：10.16821/j.cnki.
+hsjx.2015.11.002.
+［7］ KENT D，STANLEY J，AURORA R N，et al. Referral of adults 
+with obstructive sleep apnea for surgical consultation：an American 
+Academy of Sleep Medicine clinical practice guideline［J］. 
+J Clin Sleep Med，2021，17（12）：2499-2505. DOI：
+10.5664/jcsm.9592.
+［8］ NICE. Obstructive sleep apnoea hypopnoea syndrome and obesity 
+hypoventilation syndrome in over 16s［J］. BMJ，2021，12（8）：
+375-2360. DOI：10.1136/bmj.n2360.
+［9］ 中国医师协会睡眠医学专业委员会 . 成人阻塞性睡眠呼吸暂
+停多学科诊疗指南［J］. 中华医学杂志，2018，98（24）：
+1902-1914. DOI：10.3760/cma.j.issn.0376-2491.2018.24.003.
+［10］ 中华医学会， 中华医学会杂志社， 中华医学会全科医学分会， 等 . 
+成人阻塞性睡眠呼吸暂停基层诊疗指南（2018 年）［J］. 中
+华全科医师杂志，2019，18（1）：21-29. DOI：10.3760/cma.
+j.issn.1671-7368.2019.01.007.
+［11］ MYSLIWIEC V，MARTIN J L，ULMER C S，et al. The 
+management of chronic insomnia disorder and obstructive sleep 
+apnea：synopsis of the 2019 US department of veterans affairs and 
+US department of defense clinical practice guidelines［J］. Ann 
+Intern Med，2020，172（5）：325-336. DOI：10.7326/M19-
+3575. 
+［12］ PATIL S P，AYAPPA I A，CAPLES S M，et al. Treatment of adult 
+obstructive sleep apnea with positive airway pressure：an American 
+academy of sleep medicine clinical practice guideline［J］. J Clin 
+Sleep Med，2019，15（2）：335-343. DOI：10.5664/jcsm.7640. 
+［13］ 中华医学会呼吸病学分会睡眠呼吸障碍学组 . 睡眠呼吸疾病
+无创正压通气临床应用专家共识（草案）［J］. 中华结核
+和 呼 吸 杂 志，2017，40（9）：667-677. DO1：10.3760/cma.
+j.issn.1001-0939.2017.09.011.
+［14］ 中国医师协会呼吸医师分会睡眠呼吸障碍工作委员会，“华佗
+工程”睡眠健康项目专家委员会 . 成人阻塞性睡眠呼吸暂停低
+通气综合征远程医疗临床实践专家共识［J］. 中华医学杂志，
+2021，101（22）：1657-1664. DOI：10.3760/cma.j.cn112137-
+20210202-00318.
+［15］ ALOIA M S，ARNEDT J T，STRAND M，et al. Motivational 
+enhancement to improve adherence to positive airway pressure in patient s with obstructive sleep apnea：a randomized controlled 
+trial［J］. Sleep，2013，36（11）：1655-1662. DOI：
+10.5665/sleep.3120. 
+［16］ AARDOOM J J，LOHEIDE-NIESMANN L，OSSEBAARD H C，
+et al. Effectiveness of eHealth interventions in improving treatment 
+adherence for adults with obstructive sleep apnea：meta-analytic 
+review［J］. J Med Internet Res，2020，22（2）：e16972. 
+DOI：10.2196/16972.
+［17］ MEDIANO O，MANGADO N G，MONTSERRAT J M，et al. 
+International consensus document on obstructive sleep apnea［J］. 
+Arch Bronconeumol，2022，58（1）：52-68. DOI：10.1016/j.
+arbres.2021.03.017.
+［18］ 李亚军，赵艺璞，马利军，等 . 远程随访对 OSA 患者行 CPAP
+治 疗 依 从 性 的 影 响［J］. 临 床 肺 科 杂 志，2021，26（9）：
+1375-1379. DOI：10.3969/j.issn.1009-6663.2021.09.018.
+LI Y J，ZHAO Y P，MA L J，et al. Effect of remote follow-up 
+on CPAP therapy in patients with OSA［J］. Journal of Clinical 
+Pulmonary Medicine，2021，26（9）：1375-1379. DOI：
+10.3969/j.issn.1009-6663.2021.09.018. 
+［19］ PATIL S P，AYAPPA I A，CAPLES S M，et al. Treatment of adult 
+obstructive sleep apnea with positive airway pressure：an American 
+academy of sleep medicine systematic review，meta-analysis，and 
+GRADE assessment［J］. J Clin Sleep Med，2019，15（2）：
+301-334. DOI：10.5664/jcsm.7638. 
+［20］ 雷志坚 . 持续气道正压通气治疗阻塞性睡眠呼吸暂停低通气
+综合征患者治疗依从性影响因素与护理进展［J］. 护理实践
+与 研 究，2017，14（6）：24-26. DOI：10.3969/j.issn.1672-
+9676.2017.06.009.
+［21］ 吴思敏，李永霞 . 成人阻塞性睡眠呼吸暂停低通气综合征非手
+术治疗进展［J］. 广西医学，2017，39（10）：1556-1559，
+1567. DOI：10.11675/j.issn.0253-4304.2017.10.27.
+［22］ 庞锋，卢永田，谭艳，等 . 个性化可调式口腔矫治器治疗轻中
+度阻塞性睡眠呼吸暂停低通气综合征的疗效评估［J］. 中国耳
+鼻 咽 喉 头 颈 外 科，2021，28（8）：506-509. DOI：10.16066/
+j.1672-7002.2021.08.011.
+PANG F，LU Y T，TAN Y，et al. Efficacy of the customized 
+adjustable oral appliance in the treatment of mild and moderate 
+obstructive sleep apnea hypopnea syndrome［J］. Chinese Archives 
+of Otolaryngology-Head and Neck Surgery，2021，28（8）：506-
+509. DOI：10.16066/j.1672-7002.2021.08.011.
+［23］ 吴晓峰，胡克 . 成人阻塞性睡眠呼吸暂停治疗现状［J］. 解
+放 军 医 药 杂 志，2022，34（1）：113-116. DOI：10.3969/j.
+issn.2095-140X.2022.01.026.
+［24］ 张荣丽，王微，褚尧，等 . 舌下神经刺激治疗阻塞性睡眠呼吸
+暂停低通气综合征的研究进展 ［J］ . 中国呼吸与危重监护杂志，
+2019，18（4）：400-403.
+ZHANG R L，WANG W，CHU Y，et al. Research progress of 
+hypoglossal nerve stimulation for obstructive sleep apnea hypopnea 
+syndrome［J］. Chinese Journal of Respiratory and Critical Care 
+Medicine，2019，18（4）：400-403. 
+（收稿日期：2022-04-22；修回日期：2022-06-02）
+（本文编辑：徐真）

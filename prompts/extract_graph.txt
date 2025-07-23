@@ -1,0 +1,106 @@
+
+-目标-
+给定一个可能与此活动相关的文本文档和实体类型列表，从文本中识别这些类型的所有实体，以及已识别实体之间的所有关系。
+
+-步骤-
+1. 识别所有实体。对于每个识别的实体，提取以下信息：
+- entity_name: 实体名称，使用标准中文医疗术语，首字母大写
+- entity_type: 以下类型之一：[{entity_types}]
+- entity_description: 实体属性和活动的全面中文描述，使用专业医疗术语
+将每个实体格式化为 ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+
+2. 从步骤1中识别的实体中，识别所有*明确相关*的(source_entity, target_entity)对。
+对于每对相关实体，提取以下信息：
+- source_entity: 源实体名称，如步骤1中识别的
+- target_entity: 目标实体名称，如步骤1中识别的  
+- relationship_description: 用中文解释为什么认为源实体和目标实体相关，使用医疗专业术语
+- relationship_strength: 表示源实体和目标实体之间关系强度的数字评分
+将每个关系格式化为 ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+
+3. 以中文返回步骤1和2中识别的所有实体和关系的单一列表。使用 **{record_delimiter}** 作为列表分隔符。
+
+4. 完成后，输出 {completion_delimiter}
+
+######################
+-示例-
+######################
+示例 1:
+Entity_types: ORGANIZATION,PERSON
+Text:
+呼吸科医学会计划在周一和周四召开会议，该机构计划在周四下午1:30发布最新的诊疗指南决定，随后举行新闻发布会，呼吸科医学会主席张明医生将回答问题。专家预计睡眠医学委员会将维持其CPAP治疗标准压力范围在8-12cmH2O。
+######################
+Output:
+("entity"{tuple_delimiter}呼吸科医学会{tuple_delimiter}ORGANIZATION{tuple_delimiter}呼吸科医学会是制定呼吸系统疾病诊疗指南的专业机构，负责在周一和周四制定治疗标准)
+{record_delimiter}
+("entity"{tuple_delimiter}张明{tuple_delimiter}PERSON{tuple_delimiter}张明是呼吸科医学会的主席医生)
+{record_delimiter}
+("entity"{tuple_delimiter}睡眠医学委员会{tuple_delimiter}ORGANIZATION{tuple_delimiter}睡眠医学委员会是制定CPAP治疗标准和睡眠呼吸暂停治疗方案的专业委员会)
+{record_delimiter}
+("relationship"{tuple_delimiter}张明{tuple_delimiter}呼吸科医学会{tuple_delimiter}张明是呼吸科医学会的主席，将在新闻发布会上回答关于诊疗指南的问题{tuple_delimiter}9)
+{completion_delimiter}
+
+######################
+示例 2:
+Entity_types: ORGANIZATION
+Text:
+瑞思迈公司(ResMed)的股票在全球交易所周四开盘当天暴涨。但IPO专家警告说，这家呼吸机制造公司在公开市场的首次亮相并不能说明其他新上市公司的表现如何。
+
+瑞思迈是一家前公开公司，2014年被远景控股私有化。这家知名的睡眠治疗设备设计商表示，它为85%的CPAP呼吸机提供核心技术。
+######################
+Output:
+("entity"{tuple_delimiter}瑞思迈{tuple_delimiter}ORGANIZATION{tuple_delimiter}瑞思迈是一家在全球交易所上市的呼吸机制造公司，为85%的CPAP呼吸机提供核心技术)
+{record_delimiter}
+("entity"{tuple_delimiter}远景控股{tuple_delimiter}ORGANIZATION{tuple_delimiter}远景控股是一家曾经拥有瑞思迈公司的投资机构)
+{record_delimiter}
+("relationship"{tuple_delimiter}瑞思迈{tuple_delimiter}远景控股{tuple_delimiter}远景控股从2014年到现在曾经拥有瑞思迈公司{tuple_delimiter}5)
+{completion_delimiter}
+
+######################
+示例 3:
+Entity_types: ORGANIZATION,GEO,PERSON
+Text:
+五名患有阻塞性睡眠呼吸暂停综合征的患者在北京协和医院接受了为期8年的CPAP治疗，现在正在返回家乡。
+
+这次由中国睡眠医学会协调的治疗方案在80万元的医疗费用转移到上海的医疗机构后得以完成。
+
+在北京协和医院开始的治疗方案导致四名男性和一名女性患者，他们也是本地居民，搭乘专机前往上海。
+
+他们受到了高级医疗官员的欢迎，现在正在返回家乡。
+
+这些患者包括39岁的商人李明，他在北京协和医院的呼吸科接受治疗，还有59岁的记者王强和53岁的环保主义者赵丽，她同时持有双重国籍。
+######################
+Output:
+("entity"{tuple_delimiter}北京协和医院{tuple_delimiter}GEO{tuple_delimiter}北京协和医院是治疗阻塞性睡眠呼吸暂停综合征患者的医疗机构)
+{record_delimiter}
+("entity"{tuple_delimiter}上海{tuple_delimiter}GEO{tuple_delimiter}上海是患者转诊治疗的城市)
+{record_delimiter}
+("entity"{tuple_delimiter}中国睡眠医学会{tuple_delimiter}ORGANIZATION{tuple_delimiter}中国睡眠医学会是协调CPAP治疗方案的专业机构)
+{record_delimiter}
+("entity"{tuple_delimiter}李明{tuple_delimiter}PERSON{tuple_delimiter}李明是39岁的商人，患有阻塞性睡眠呼吸暂停综合征，在北京协和医院呼吸科接受治疗)
+{record_delimiter}
+("entity"{tuple_delimiter}呼吸科{tuple_delimiter}ORGANIZATION{tuple_delimiter}北京协和医院的呼吸科是治疗睡眠呼吸暂停的专业科室)
+{record_delimiter}
+("entity"{tuple_delimiter}王强{tuple_delimiter}PERSON{tuple_delimiter}王强是59岁的记者，患有睡眠呼吸暂停综合征)
+{record_delimiter}
+("entity"{tuple_delimiter}赵丽{tuple_delimiter}PERSON{tuple_delimiter}赵丽是53岁的环保主义者，患有睡眠呼吸暂停综合征，持有双重国籍)
+{record_delimiter}
+("relationship"{tuple_delimiter}北京协和医院{tuple_delimiter}上海{tuple_delimiter}北京协和医院与上海的医疗机构进行了患者转诊治疗{tuple_delimiter}2)
+{record_delimiter}
+("relationship"{tuple_delimiter}中国睡眠医学会{tuple_delimiter}北京协和医院{tuple_delimiter}中国睡眠医学会协调了北京协和医院的CPAP治疗方案{tuple_delimiter}2)
+{record_delimiter}
+("relationship"{tuple_delimiter}李明{tuple_delimiter}呼吸科{tuple_delimiter}李明在北京协和医院呼吸科接受阻塞性睡眠呼吸暂停综合征治疗{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}李明{tuple_delimiter}王强{tuple_delimiter}李明和王强都是同一批接受CPAP治疗的患者{tuple_delimiter}2)
+{record_delimiter}
+("relationship"{tuple_delimiter}李明{tuple_delimiter}赵丽{tuple_delimiter}李明和赵丽都是同一批接受CPAP治疗的患者{tuple_delimiter}2)
+{record_delimiter}
+("relationship"{tuple_delimiter}王强{tuple_delimiter}赵丽{tuple_delimiter}王强和赵丽都是同一批接受CPAP治疗的患者{tuple_delimiter}2)
+{completion_delimiter}
+
+######################
+-真实数据-
+######################
+Entity_types: {entity_types}
+Text: {input_text}
+######################
+Output:

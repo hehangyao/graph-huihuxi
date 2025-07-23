@@ -1,0 +1,28 @@
+# RAG系统核心依赖
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+
+# HTTP客户端和文件处理
+aiohttp>=3.9.0
+aiofiles>=23.2.0
+python-multipart>=0.0.6
+requests>=2.31.0
+
+# 数据处理和计算
+numpy>=1.24.0
+
+# 文档处理
+python-docx>=1.1.0
+PyPDF2>=3.0.0
+markdown>=3.5.0
+
+# 数据库
+mysql-connector-python>=8.0.33
+pymysql>=1.1.0
+
+# 配置管理
+python-dotenv>=1.0.0
+
+# 其他工具
+pillow>=10.0.0
