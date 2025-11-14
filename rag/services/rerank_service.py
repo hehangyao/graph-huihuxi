@@ -2,7 +2,7 @@ import logging
 import asyncio
 import aiohttp
 from typing import List, Dict, Any, Optional
-from rag_config import rag_config as config
+from rag.rag_config import rag_config as config
 
 logger = logging.getLogger(__name__)
 

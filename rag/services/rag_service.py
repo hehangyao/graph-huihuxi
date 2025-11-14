@@ -5,12 +5,12 @@ from pathlib import Path
 import time
 from datetime import datetime
 
-from services.document_processor import DocumentProcessor
-from services.embedding_service import EmbeddingService
-from services.vector_store import VectorStore
-from services.rerank_service import RerankService
-from database import DatabaseManager
-from rag_config import rag_config as config
+from rag.services.document_processor import DocumentProcessor
+from rag.services.embedding_service import EmbeddingService
+from rag.services.vector_store import VectorStore
+from rag.services.rerank_service import RerankService
+from rag.database import DatabaseManager
+from rag.rag_config import rag_config as config
 
 logger = logging.getLogger(__name__)
 
@@ -102,7 +102,16 @@ class RAGService:
         chunks = document["chunks"]
         
         # 保存文档到数据库
-        await self.db_manager.save_document(document)
+        await self.db_manager.save_document(
+            doc_id=document["doc_id"],
+            filename=document["title"],
+            content=document["content"],
+            metadata={
+                "file_path": document.get("file_path", ""),
+                "total_tokens": document.get("total_tokens", 0),
+                "created_at": document.get("created_at", datetime.now().isoformat())
+            }
+        )
         
         # 生成嵌入向量并保存文档块
         chunk_embeddings = []
@@ -117,7 +126,14 @@ class RAGService:
                     chunk_embeddings.append(embedding)
                     
                     # 保存到数据库
-                    await self.db_manager.save_document_chunk(chunk)
+                    await self.db_manager.save_document_chunk(
+                        chunk_id=chunk["chunk_id"],
+                        doc_id=chunk["doc_id"],
+                        chunk_index=chunk["chunk_index"],
+                        content=chunk["content"],
+                        metadata=chunk.get("metadata", {}),
+                        embedding_vector=embedding
+                    )
                     
                     # 添加到向量存储
                     self.vector_store.add_document(chunk, embedding)

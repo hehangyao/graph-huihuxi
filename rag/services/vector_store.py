@@ -4,7 +4,7 @@ import numpy as np
 from typing import List, Dict, Any, Optional, Tuple
 from pathlib import Path
 import json
-from rag_config import rag_config as config
+from rag.rag_config import rag_config as config
 
 logger = logging.getLogger(__name__)
 

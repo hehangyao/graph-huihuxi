@@ -4,7 +4,7 @@ from typing import List, Dict, Any, Optional
 import aiohttp
 import json
 import time
-from rag_config import rag_config as config
+from rag.rag_config import rag_config as config
 
 logger = logging.getLogger(__name__)
 
@@ -33,6 +33,10 @@ class EmbeddingService:
         except Exception as e:
             logger.error(f"查询向量化失败: {str(e)}")
             raise
+    
+    async def get_embedding(self, text: str) -> List[float]:
+        """获取文本的嵌入向量（embed_query的别名）"""
+        return await self.embed_query(text)
     
     async def embed_texts(self, texts: List[str], batch_size: int = 10) -> List[List[float]]:
         """批量向量化文本"""

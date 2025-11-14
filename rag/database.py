@@ -4,7 +4,7 @@ from typing import Optional, Dict, Any, List
 import sqlite3
 import json
 from datetime import datetime
-from rag_config import rag_config as config
+from rag.rag_config import rag_config as config
 
 logger = logging.getLogger(__name__)
 
@@ -191,6 +191,25 @@ class DatabaseManager:
         """, (query, results_count, search_time, used_rerank))
         
         self.connection.commit()
+    
+    async def get_all_document_chunks(self) -> List[Dict[str, Any]]:
+        """获取所有文档块"""
+        cursor = self.connection.cursor()
+        cursor.execute("SELECT * FROM document_chunks ORDER BY doc_id, chunk_index")
+        
+        chunks = []
+        for row in cursor.fetchall():
+            chunks.append({
+                "chunk_id": row["chunk_id"],
+                "doc_id": row["doc_id"],
+                "chunk_index": row["chunk_index"],
+                "content": row["content"],
+                "metadata": json.loads(row["metadata"]) if row["metadata"] else {},
+                "embedding_vector": json.loads(row["embedding_vector"]) if row["embedding_vector"] else None,
+                "created_at": row["created_at"]
+            })
+        
+        return chunks
     
     async def get_search_stats(self) -> Dict[str, Any]:
         """获取搜索统计信息"""
